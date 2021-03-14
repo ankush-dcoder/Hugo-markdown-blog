@@ -1,0 +1,16 @@
+
+# command to add new page
+#./hugo new posts/my-first-post.md
+
+
+
+#command to use a test server
+#./hugo server -D --port=5000
+
+#below command builds static html site from markdown files using hugo for build
+./hugo -D
+
+#the build static site is generated in public diretory
+
+#serve public directory using go's simple http server
+go run main.go
