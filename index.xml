@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 23 Sep 2020 19:04:06 +0000</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>/posts/my-first-post.html</link>
+      <pubDate>Wed, 23 Sep 2020 19:04:06 +0000</pubDate>
+      
+      <guid>/posts/my-first-post.html</guid>
+      <description>Hi, this is a blog template using hugo static site generator.
+You can write blog posts in content/posts directory in markdown
+hugo converts your md file posts to a static blog site, which you can deplpy.
+You can add more paged by creating new .md files in content/posts
+or by executing ./hugo new posts/postname.md in .dcoder_run file and press run.
+Happy coding Looking forward to what you build with it.</description>
+    </item>
+    
+  </channel>
+</rss>
