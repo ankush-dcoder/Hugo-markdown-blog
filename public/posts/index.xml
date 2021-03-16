@@ -15,10 +15,10 @@
       <guid>/posts/my-first-post.html</guid>
       <description>Hi, this is a blog template using hugo static site generator.
 You can write blog posts in content/posts directory in markdown
-hugo converts your md file posts to a static blog site, which you can deplpy.
-You can add more paged by creating new .md files in content/posts
+hugo converts your md file posts to a static blog site, which you can deploy.
+You can add more pages by creating new .md files in content/posts
 or by executing ./hugo new posts/postname.md in .dcoder_run file and press run.
-Happy coding Looking forward to what you build with it.</description>
+Happy coding Looking forward to what you&amp;rsquo;ll build with it. \n\nTesting flows.</description>
     </item>
     
   </channel>
